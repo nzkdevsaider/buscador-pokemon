@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buscador-pokemon/static/css/main.854720eb.css",
+    "main.js": "/buscador-pokemon/static/js/main.22a62174.js",
+    "static/js/787.e1385871.chunk.js": "/buscador-pokemon/static/js/787.e1385871.chunk.js",
+    "static/media/logo.png": "/buscador-pokemon/static/media/logo.c12eb7529d7819c9dac9.png",
+    "index.html": "/buscador-pokemon/index.html",
+    "main.854720eb.css.map": "/buscador-pokemon/static/css/main.854720eb.css.map",
+    "main.22a62174.js.map": "/buscador-pokemon/static/js/main.22a62174.js.map",
+    "787.e1385871.chunk.js.map": "/buscador-pokemon/static/js/787.e1385871.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854720eb.css",
+    "static/js/main.22a62174.js"
+  ]
+}
